@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+(This is my first time using CRA)
+
+## Webpage Preview
+
+<img src="https://github.com/LucasSuL/React-Course---Project-1-ReactFacts/assets/109936384/51b73732-05be-414e-a547-8aaa00083cd6" width="400px">
 
 ## Available Scripts
 
